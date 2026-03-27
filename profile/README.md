@@ -39,3 +39,5 @@ Sistema de guia de estacionamento universitário com detecção em tempo real.
 | Mateus Henrique | @Mateus-Henrique21 |
  
 ---
+
+<sub> Feito com Python, Rust, e muita câmera. </sub>
