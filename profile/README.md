@@ -19,23 +19,11 @@ Sistema de guia de estacionamento universitário com detecção em tempo real.
 
 | Camada | Tecnologia |
 |--------|-----------|
-| Edge (detecção) | Python · YOLOv8n · OpenCV · Sigle-Board Computer |
+| Edge (detecção) | Python · YOLO26 · OpenCV · Sigle-Board Computer |
 | Servidor | Rust/Axum + Tokio |
 | App | React Native · Three.js |
 | Infra | Docker · PostgreSQL · WebSocket · GitHub Actions |
 
----
-
-## Time
-
-| Nome | GitHub |
-|------|--------|
-| Guilherme Pedroza | @pedrozaz |
-| Lucas Silva Nastalli | @nastalli |
-| Diogo Lucas Bernadelli | — |
-| Eloy Vinícius Casagrande | @Elxy0rl |
-| Rhandal Reis Moura | @rnd4s |
- 
 ---
 
 <sub> Feito com Python, Rust, e muita câmera. </sub>
