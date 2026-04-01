@@ -32,11 +32,9 @@ Sistema de guia de estacionamento universitário com detecção em tempo real.
 |------|--------|
 | Guilherme Pedroza | @pedrozaz |
 | Lucas Silva Nastalli | @nastalli |
-| Marco | omarc0p |
 | Diogo Lucas Bernadelli | — |
 | Eloy Vinícius Casagrande | @Elxy0rl |
 | Rhandal Reis Moura | @rnd4s |
-| Mateus Henrique | @Mateus-Henrique21 |
  
 ---
 
